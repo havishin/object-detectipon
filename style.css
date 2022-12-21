@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to bottom right, red, yellow, green, blue);
+    text-align: center;
+}
+a{
+    width: 200px;
+}
+h1{
+    width: 100%;
+}
